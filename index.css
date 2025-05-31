@@ -1,7 +1,7 @@
 table{
 
     position: relative;
-    top: 100px;
+    top: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@ table{
 .two{
 
     position: relative;
-    top: 100px;
+    top: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,7 +22,7 @@ body{
     color:#fff;
 
     height: 98vh;
-    background-color: black;
+    background: linear-gradient(#000046, #182848);
 
 
 }
